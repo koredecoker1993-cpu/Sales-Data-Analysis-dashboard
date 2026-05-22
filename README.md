@@ -14,3 +14,20 @@ This dashboard analyzes sales performance from 2010 to 2017, showcasing key KPIs
 - How do sales vary across regions
 - What are the top and lowest selling item types by quantity?
 
+- Dashboard Interaction <a href="https://github.com/koredecoker1993-cpu/Sales-Data-Analysis-dashboard/blob/main/Screenshot%20(78).png">View Dashboard</a>
+
+## Process
+
+- Data Preparation, Cleaned and standardized raw sales data (2010–2017) including item types, regions, countries, revenue, cost, and profit.
+
+- Data Transformation, Created calculated KPIs such as Total Profit, Revenue, Cost, Quantity Sold, and Profit Margin for analysis.
+
+- Data Modelling, Built relationships between tables and added slicers for interactive filtering by year, country, region, and item type.
+
+- Visualization Designed Power BI charts and KPI cards to show yearly profit trends, top/lowest item types, and category‑level margins.
+
+## Dashboard
+
+<img width="1443" height="804" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/dfb3252a-f2a7-4a45-80c9-26b0801ddaa6" />
+
+
