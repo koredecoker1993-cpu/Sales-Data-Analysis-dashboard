@@ -30,4 +30,14 @@ This dashboard analyzes sales performance from 2010 to 2017, showcasing key KPIs
 
 <img width="1443" height="804" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/dfb3252a-f2a7-4a45-80c9-26b0801ddaa6" />
 
+## Project Insight
+
+- Profit shows a consistent upward trend from 2010 to 2017, indicating strong year‑over‑year business growth.
+- Cosmetics, Clothes, and Household items are the top‑performing categories, contributing the highest profit.
+- Meat and Snacks rank as the lowest‑performing item types, highlighting areas for improvement or strategic review.
+- The business maintains a healthy profit margin across most product categories, with clear differences in cost‑to‑profit efficiency.
+- Quantity sold and profit distribution reveal strong demand patterns, helping identify high‑volume and low‑volume product segments.
+
+
+
 
