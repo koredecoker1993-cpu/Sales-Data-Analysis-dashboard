@@ -19,11 +19,8 @@ This dashboard analyzes sales performance from 2010 to 2017, showcasing key KPIs
 ## Process
 
 - Data Preparation, Cleaned and standardized raw sales data (2010–2017) including item types, regions, countries, revenue, cost, and profit.
-
 - Data Transformation, Created calculated KPIs such as Total Profit, Revenue, Cost, Quantity Sold, and Profit Margin for analysis.
-
 - Data Modelling, Built relationships between tables and added slicers for interactive filtering by year, country, region, and item type.
-
 - Visualization Designed Power BI charts and KPI cards to show yearly profit trends, top/lowest item types, and category‑level margins.
 
 ## Dashboard
@@ -37,6 +34,10 @@ This dashboard analyzes sales performance from 2010 to 2017, showcasing key KPIs
 - Meat and Snacks rank as the lowest‑performing item types, highlighting areas for improvement or strategic review.
 - The business maintains a healthy profit margin across most product categories, with clear differences in cost‑to‑profit efficiency.
 - Quantity sold and profit distribution reveal strong demand patterns, helping identify high‑volume and low‑volume product segments.
+
+## Final Conclusion
+
+This Sales Performance Dashboard provides a clear and comprehensive view of business performance from 2010 to 2017, turning raw sales data into meaningful insights. By combining KPIs, trend analysis, and product‑level comparisons, the dashboard highlights growth patterns, top‑performing categories, and areas needing improvement. It enables faster, data‑driven decision‑making and demonstrates the value of interactive visualization in understanding profitability, demand, and overall business efficiency.
 
 
 
