@@ -1,2 +1,3 @@
-# Sales-Data-Analysis-dashboard
-Interactive Power BI dashboard visualizing sales performance across regions, item types, and years uncovering profit trends, top‑selling products, and margin insights for smarter business decisions.
+# Sales-Data-Analysis-dashboard ( interactive dashboard creation using Power bi
+# # Project Objective
+This dashboard analyzes sales performance from 2010 to 2017, showcasing key KPIs such as Total Profit, Revenue, Cost, and Quantity Sold. It highlights yearly profit trends, top and lowest‑selling item types, and category‑level profit margins to reveal growth patterns and improvement opportunities.
